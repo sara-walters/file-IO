@@ -1,1 +1,3 @@
-.iliad_1.txt
+.DS_Store
+# Ignore i/o practice files
+*.txt
